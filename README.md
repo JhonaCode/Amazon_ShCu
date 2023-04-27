@@ -7,10 +7,15 @@ convection in Central Amazon(CAMZ).
 
 The initial conditions, large-scale forcing, and surface 
 fluxes for the Amazon ShCu data set were created, 
-averaging data set from the six representative 
-cases of ShCu in CAMZ.
+averaging data set from 30 representative 
+cases of ShCu in CAMZ during the intesive operational period 1 and 2, IOP1 and IOP2 
+respectively.
 
 <img src="fig/mass_flux_2d_ca_sh.png" alt="Alt text" title="Optional title" width="500" height="500" >
+<img src="fig/mass_flux_2d_ca_small.png" alt="Alt text" title="Optional title" width="500" height="500" >
+<img src="fig/mass_flux_2d_ca_medium.png" alt="Alt text" title="Optional title" width="500" height="500" >
+<img src="fig/mass_flux_2d_ca_large.png" alt="Alt text" title="Optional title" width="500" height="500" >
+
 
 
 ###3[Some title here](fig/mass_flux_2d_ca_sh.pdf)

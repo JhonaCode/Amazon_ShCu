@@ -12,9 +12,9 @@ cases of ShCu in CAMZ during the intesive operational period 1 and 2, IOP1 and I
 respectively.
 
 <img src="fig/mass_flux_2d_ca_sh.png" alt="Alt text" title="Optional title" width="500" height="500" >
-<img src="fig/mass_flux_2d_small.png" alt="Alt text" title="Optional title" width="500" height="500" >
-<img src="fig/mass_flux_2d_medium.png" alt="Alt text" title="Optional title" width="500" height="500" >
-<img src="fig/mass_flux_2d_large.png" alt="Alt text" title="Optional title" width="500" height="500" >
+<img src="fig/mass_flux_2d_small.png" alt="Alt text" title="Optional title" width="300" height="300" >
+<img src="fig/mass_flux_2d_medium.png" alt="Alt text" title="Optional title" width="300" height="300" >
+<img src="fig/mass_flux_2d_large.png" alt="Alt text" title="Optional title" width="300" height="300" >
 
 
 

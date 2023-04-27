@@ -13,6 +13,8 @@ cases of ShCu in CAMZ.
 #####<img src="fig/amazon_Area.png" alt="Alt text" title="Optional title">
 
 <img src="fig/mass_flux_2d_ca_sh" alt="Alt text" title="Optional title">
+
+[Some title here](fig/mass_flux_2d_ca_sh.pdf)
 _____________________________________________________________
 Data:
 

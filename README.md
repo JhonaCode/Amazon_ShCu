@@ -10,7 +10,7 @@ fluxes for the Amazon ShCu data set were created,
 averaging data set from the six representative 
 cases of ShCu in CAMZ.
 
-<img src="fig/massflux_ca_sh.png" alt="Alt text" title="Optional title">
+<img src="fig/massflux_2d_ca_sh.png" alt="Alt text" title="Optional title">
 
 
 ###3[Some title here](fig/mass_flux_2d_ca_sh.pdf)

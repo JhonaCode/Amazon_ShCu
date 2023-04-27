@@ -9,6 +9,8 @@ The initial conditions, large-scale forcing, and surface
 fluxes for the Amazon ShCu data set were created, 
 averaging data set from the six representative 
 cases of ShCu in CAMZ.
+
+<img src="fig/amazon_Area.png" alt="Alt text" title="Optional title">
 _____________________________________________________________
 Data:
 

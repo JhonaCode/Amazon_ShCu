@@ -17,6 +17,13 @@ respectively.
 <img src="fig/mass_flux_2d_large_all.png" alt="Alt text" title="Optional title" width="300" height="300" >
 
 
+<p float="left">
+  <img src="/fig/mass_flux_2d_ca_sh.png" width="100" />
+  <img src="/fig/mass_flux_2d_ca_sh.png" width="100" /> 
+  <img src="/fig/mass_flux_2d_ca_sh.png" width="100" />
+</p>
+
+
 
 ###3[Some title here](fig/mass_flux_2d_ca_sh.pdf)
 _____________________________________________________________

@@ -13,7 +13,7 @@ respectively.
 
 
 <p float="left"
-  <img src="/fig/mass_flux_2d_small.png" width="100" /> 
+  <img src="/fig/mass_flux_2d_small.png"  width="100" /> 
   <img src="/fig/mass_flux_2d_medium.png" width="100" />
   <img src="/fig/mass_flux_2d_large_all.png" width="100" />
 </p>

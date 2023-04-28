@@ -11,7 +11,6 @@ averaging data set from 30 representative
 cases of ShCu in CAMZ during the intesive operational period 1 and 2, IOP1 and IOP2 
 respectively.
 
-<img src="fig/mass_flux_2d_ca_sh.png" alt="Alt text" title="Optional title" width="500" height="500" >
 
 <p float="left"
   <img src="/fig/mass_flux_2d_small.png" width="100" /> 
@@ -19,10 +18,7 @@ respectively.
   <img src="/fig/mass_flux_2d_large_all.png" width="100" />
 </p>
 
-
-
-###3[Some title here](fig/mass_flux_2d_ca_sh.pdf)
-_____________________________________________________________
+_____
 Data:
 
 The data  was created to run in

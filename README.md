@@ -33,9 +33,9 @@ The mass flux for these composites simulated using the SAM model is shown
 in Fig. 2. 
 
 <p float="left">
-  <img src="fig/mass_flux_2d_small.png" width="320" />
-  <img src="/fig/mass_flux_2d_medium.png" width="300" /> 
-  <img src="/fig/mass_flux_2d_large_all.png" width="370" />
+  <img src="fig/mass_flux_2d_small.png" width="300" />
+  <img src="/fig/mass_flux_2d_medium.png" width="280" /> 
+  <img src="/fig/mass_flux_2d_large_all.png" width="350" />
 </p>
 Figure2. The time evolution of the updraft mass flux (uMF) [kgm−2s−1] profiles
 for small, medium and large ShCu composites. 

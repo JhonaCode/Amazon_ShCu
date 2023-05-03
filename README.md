@@ -13,8 +13,8 @@ respectively. This composite is called Amazon ShCu, its mass flux time
 evolution simulated by the System for Atmospheric
 Modeling (SAM)  v.6.10.6 (Khairoutdinov & Randall, 2003) model is show in Fig.1. 
 
-<p float="">
- <img src="fig/mass_flux_2d_small.png" width="320" />
+<p align="center">
+ <img src="fig/mass_flux_2d_ca_sh.png" width="500" />
 </p>
 Figure1. The time evolution (average every 5 minutes) of the updraft mass flux (uMF) [kgm−2s−1] profiles
 for the Amazon ShCu. The mixing layer height (Zi, black lines) is defined at the minimum buoyancy flux (B), cloud base
@@ -47,12 +47,11 @@ Single Column Atmospheric Model, version 6 (SCAM6) (Gettelman et al., 2019)
 
 For the SAM model:
 
-![SAM](/fig/sam_logo.jpg)
+[<img src='fig/sam_logo.jpg' width='200'>](SAM_forcings)
 
 For the NCAR SCAM 6 model:
 
-![SCAM](/fig/logo-ncar-active.png)
-
+[<img src='fig/logo-ncar-active.png' width='200'>](SCAM_forcings)
 
 
 

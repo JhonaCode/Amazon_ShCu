@@ -1,4 +1,4 @@
-##### Amazon Shallow Cumulus Forcings for LES/CRM and 1D models. 
+# Amazon Shallow Cumulus Forcings for LES/CRM and 1D models. 
 
 This repositories contains the initial 
 condition and the large-scale forcing 

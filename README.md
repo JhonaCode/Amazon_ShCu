@@ -22,6 +22,8 @@ height [km] (Hbase, red dashed lines) at the maximum CF level, cloud top [km] (H
 ted lines) at the level where CLW<0.001 [gkg−1]  above cloud base and the
 level of free convection (LFC [km], purple dashed lines) at the level where B>0, above Zi.
 
+<br><br>
+
 In order to study the factors for ShCu clouds growth, these 30 ShCu cases were classified 
 into three categories, small, medium, and
 large , according to their cloud-top height and depth, and their respectively composites were created.

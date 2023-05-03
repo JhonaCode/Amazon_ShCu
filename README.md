@@ -10,7 +10,8 @@ fluxes for the Amazon ShCu data set were created,
 averaging data set from 30 representative 
 cases of ShCu in CAMZ during the intesive operational period 1 and 2, IOP1 and IOP2 
 respectively. This composite is called Amazon ShCu, its mass flux time 
-evolution is show in Fig.1. 
+evolution simulated by the System for Atmospheric
+Modeling (SAM)  v.6.10.6 (Khairoutdinov & Randall, 2003) model is show in Fig.1. 
 
 <p float="">
  <img src="fig/mass_flux_2d_small.png" width="320" />
@@ -21,30 +22,44 @@ height [km] (Hbase, red dashed lines) at the maximum CF level, cloud top [km] (H
 ted lines) at the level where CLW<0.001 [gkg−1]  above cloud base and the
 level of free convection (LFC [km], purple dashed lines) at the level where B>0, above Zi.
 
-To make 
+In order to study the factors for ShCu clouds growth, these 30 ShCu cases were classified 
+into three categories, small, medium, and
+large , according to their cloud-top height and depth, and their respectively composites were created.
+The initial conditions, large-scale forcing, and surface 
+fluxes for these composities is also availible 
+The mass flux for these composites simulated using the SAM model is shown 
+in Fig. 2. 
 
 <p float="left">
   <img src="fig/mass_flux_2d_small.png" width="320" />
   <img src="/fig/mass_flux_2d_medium.png" width="300" /> 
   <img src="/fig/mass_flux_2d_large_all.png" width="370" />
 </p>
-Figure1. The time evolution (average every 5 minutes) of the updraft mass flux (uMF) [kgm−2s−1] profiles
-for small, medium and large. The
-mixing layer height (Zi, black lines) is defined at the minimum buoyancy flux (B), cloud base
-height [km] (Hbase, red dashed lines) at the maximum CF level, cloud top [km] (Htop, black dot-
-ted lines) at the level where CLW<0.001 [gkg−1] (Oue et al., 2016) above cloud base and the
-level of free convection (LFC [km], purple dashed lines) at the level where B>0, above Zi.
-
+Figure2. The time evolution of the updraft mass flux (uMF) [kgm−2s−1] profiles
+for small, medium and large ShCu composites. 
 
 _____
 ## Data:
 
 The data  was created to run in
-the System for Atmospheric
-Modeling (SAM) v.6.10.6 (Khairoutdinov & Randall, 2003) and a versio to 
+the SAM and a versio to 
 Single Column Atmospheric Model, version 6 (SCAM6) (Gettelman et al., 2019)
 
-Two dataset were created: 
+For the SAM model:
+
+![SAM](/fig/sam_logo.jpg)
+
+For the NCAR SCAM 6 model:
+
+![SCAM](/fig/logo-ncar-active.png)
+
+
+
+
+To find more information about the simulations and the composites criation 
+visit the paper:
+
+[Link to Amazon ShCU paper](https://doi.org/10.1002/essoar.10510700.2)
 
 
 ### References

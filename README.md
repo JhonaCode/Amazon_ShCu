@@ -49,11 +49,11 @@ Single Column Atmospheric Model, version 6 (SCAM6) (Gettelman et al., 2019)
 
 For the SAM model:
 
-[<img src='fig/sam_logo.jpg' width='200'>](SAM_forcings)
+[<img src='fig/sam_logo.jpg' width='190'>](SAM_forcings)
 
 For the NCAR SCAM 6 model:
 
-[<img src='fig/logo-ncar-active.png' width='200'>](SCAM_forcings)
+[<img src='fig/logo-ncar-active.png' width='150'>](SCAM_forcings)
 
 
 

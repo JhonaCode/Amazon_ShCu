@@ -57,7 +57,7 @@ For the NCAR SCAM 6 model:
 
 
 
-To find more information about the simulations and the composites criation 
+To find more information about the simulations and the composites creation 
 visit the paper:
 
 [Link to Amazon ShCU paper](https://doi.org/10.1002/essoar.10510700.2)
